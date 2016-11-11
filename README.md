@@ -2,4 +2,4 @@
 Projects for freeCodeCamp.com site.
 
 Current status:
-	* [ ] Build a Tribute Page
+- [ ] Build a Tribue Page
